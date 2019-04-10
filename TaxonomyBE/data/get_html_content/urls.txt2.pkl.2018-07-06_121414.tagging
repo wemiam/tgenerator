@@ -1,0 +1,10 @@
+,snippet_tags,snippet_tags_stat,snippet_tags_stat2,snippet_tags_stat_LSA
+0,set(),set(),set(),set()
+1,"{'今日', '腾讯', '博弈', '公关', '头条'}",set(),set(),set()
+2,"{'腾讯', '攻击', '公安机关', '声明', '公关', '近期'}",set(),set(),set()
+3,{'腾讯'},set(),set(),set()
+4,"{'今日', '遭遇', '头条', '公关'}",set(),set(),set()
+5,"{'今日', '文章', '还给', '媒体', '头条'}",set(),set(),set()
+6,"{'今日', '朋友圈', '腾讯', '头条'}",set(),set(),set()
+7,"{'互联网', '腾讯'}",set(),set(),set()
+8,set(),set(),set(),set()

@@ -1,0 +1,57 @@
+2018-09-14 14:56:44,837:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 14:56:46,602:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 14:56:46,602:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 15:02:43,201:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 15:02:45,114:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 15:02:45,114:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 15:08:09,922:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 15:08:12,027:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 15:08:12,027:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 15:13:07,246:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 15:13:09,210:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 15:13:09,210:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 15:13:44,746:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 15:13:46,631:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 15:13:46,631:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:31:04,841:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 16:31:06,858:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:31:06,858:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:32:05,364:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 16:32:07,216:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:32:07,216:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:38:19,998:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 16:38:22,075:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:38:22,075:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:48:42,254:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 16:48:44,161:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:48:44,161:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:49:23,918:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 16:49:25,794:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:49:25,794:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:50:31,877:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 16:50:33,611:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:50:33,611:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:51:06,099:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 16:51:07,846:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:51:07,846:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:52:49,608:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 16:52:51,523:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:52:51,523:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:54:08,206:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 16:54:09,995:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 16:54:09,995:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 17:11:00,383:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 17:11:02,237:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 17:11:02,237:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 17:11:27,270:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 17:11:29,117:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 17:11:29,117:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 17:21:15,640:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 17:21:17,540:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 17:21:17,540:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 17:29:11,280:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-14 17:29:13,287:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-14 17:29:13,287:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-17 10:55:08,190:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2018-09-17 10:55:10,034:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2018-09-17 10:55:10,034:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680

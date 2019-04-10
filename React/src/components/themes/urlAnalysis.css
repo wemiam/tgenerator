@@ -1,0 +1,68 @@
+.analysis-container {
+    width: 100%;
+    min-width: 800px;
+}
+
+
+
+.analysis-header {
+    width: 100%;
+    height: 50px;
+    background: #8ACED1;
+    padding-top: 9px;
+}
+
+.analysis-title {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+
+
+.analysis-body {
+    margin-top: 12px;
+}
+
+.analysis-search {
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 600px;
+}
+
+.analysis-item {
+    margin-top: 16px;
+    margin-left: 20px;
+}
+
+.analysis-subtitle {
+    margin-top: 12px;
+    
+    color: #8ACED1;
+    font-size: 16px;
+}
+
+.analysis-spin {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+.ant-tree li{
+    padding: 4px 4px;
+}
+
+.ant-tree li ul {
+    padding: 0 0 0 100px;
+}
+
+.ant-tree.ant-tree-show-line li:not(:last-child):before{
+    left: 18px;
+}
+
+.ant-tree li span.ant-tree-switcher, .ant-tree li span.ant-tree-iconEle{
+    width: 36px;
+}
