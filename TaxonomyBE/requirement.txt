@@ -32,6 +32,6 @@ six==1.11.0
 sklearn==0.0
 smart-open==1.6.0
 termcolor==1.1.0
-urllib3==1.23
+urllib3==1.26.5
 Werkzeug==0.14.1
 zhconv==1.4.0
