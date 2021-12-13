@@ -17,7 +17,7 @@ html5lib==0.9999999
 idna==2.7
 jieba==0.39
 jmespath==0.9.3
-lxml==4.2.3
+lxml==4.6.5
 Markdown==2.6.11
 numpy==1.14.5
 pandas==0.23.1
